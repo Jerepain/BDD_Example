@@ -8,3 +8,13 @@ C:\Repos\GoT\GotTest\obj\Debug\GotTest.dll
 C:\Repos\GoT\GotTest\obj\Debug\GotTest.pdb
 C:\Repos\GoT\GotTest\bin\Debug\GoT.exe
 C:\Repos\GoT\GotTest\bin\Debug\GoT.pdb
+C:\Repos\BDD_Example\GotTest\bin\Debug\GotTest.dll
+C:\Repos\BDD_Example\GotTest\bin\Debug\GotTest.pdb
+C:\Repos\BDD_Example\GotTest\bin\Debug\GoT.exe
+C:\Repos\BDD_Example\GotTest\bin\Debug\nunit.framework.dll
+C:\Repos\BDD_Example\GotTest\bin\Debug\TechTalk.SpecFlow.dll
+C:\Repos\BDD_Example\GotTest\bin\Debug\GoT.pdb
+C:\Repos\BDD_Example\GotTest\bin\Debug\nunit.framework.xml
+C:\Repos\BDD_Example\GotTest\obj\Debug\GotTest.csprojResolveAssemblyReference.cache
+C:\Repos\BDD_Example\GotTest\obj\Debug\GotTest.dll
+C:\Repos\BDD_Example\GotTest\obj\Debug\GotTest.pdb

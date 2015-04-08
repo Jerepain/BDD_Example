@@ -6,3 +6,6 @@ C:\Repos\GoT\GoT\obj\Debug\GoT.pdb
 C:\Repos\BDD_Example\GoT\bin\Debug\GoT.exe.config
 C:\Repos\BDD_Example\GoT\obj\Debug\GoT.exe
 C:\Repos\BDD_Example\GoT\obj\Debug\GoT.pdb
+C:\Repos\BDD_Example\GoT\bin\Debug\GoT.exe
+C:\Repos\BDD_Example\GoT\bin\Debug\GoT.pdb
+C:\Repos\BDD_Example\GoT\obj\Debug\GoT.csprojResolveAssemblyReference.cache
